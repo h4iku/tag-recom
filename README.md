@@ -15,7 +15,7 @@
     pip install -r requirements.txt
     ```
     
-4. Download the datasets from [here](http://#), and unzip them in the root directory of the cloned repository:
+4. Download the datasets from [here](https://www.mediafire.com/file/bpc0h4uateua899/data.zip/file), and unzip them in the root directory of the cloned repository:
 
     ```
     tag-recom/data
