@@ -9,7 +9,7 @@ class Data:
     total_folds = 10
     
     # Dataset root directory
-    _DATASET_ROOT = Path('../data')
+    _DATASET_ROOT = Path(__file__).parent / '../data'
     
     def __init__(self, name):
         self.name = name
