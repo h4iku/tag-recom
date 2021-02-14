@@ -1,4 +1,4 @@
-# VSCode project settings
+# VSCode project settings and environment
 .vscode
 env/
 
@@ -9,5 +9,3 @@ __pycache__/
 
 # Dataset files and generated assets
 data/
-*.pickle
-*.json
