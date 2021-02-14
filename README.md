@@ -1,6 +1,6 @@
 # How to run:
 
-1. Install [Python 3.6+](https://www.python.org/).
+1. Install [Python 3.8+](https://www.python.org/).
 
 2. Clone this repository and create a venv:
     ```
@@ -10,8 +10,9 @@
     ./env/Scripts/activate
     ```
 
-3. Install the required dependencies:
+3. Update and install the required dependencies:
     ```
+    python -m pip install -U pip setuptools
     pip install -r requirements.txt
     ```
     
@@ -35,8 +36,7 @@
 5. Run the main module:
 
     ```
-    cd tag_recommender
-    python main.py
+    python tag_recommender/main.py
     ```
 
     Change the value of the `DATASET` variable in `datasets.py` to choose different datasets. There are also some boolean flags in `main.py` to control the execution of different parts of the program.
