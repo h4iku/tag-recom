@@ -1,12 +1,6 @@
-beautifulsoup4==4.9.3
-click==7.1.2
-jenkspy==0.2.0
-joblib==1.0.1
-nltk==3.5
+scipy==1.6.1
 numpy==1.20.1
-regex==2020.11.13
+nltk==3.5
+jenkspy==0.2.0
+beautifulsoup4==4.9.3
 scikit-learn==0.24.1
-scipy==1.6.0
-soupsieve==2.2
-threadpoolctl==2.1.0
-tqdm==4.56.2
