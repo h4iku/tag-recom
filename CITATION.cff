@@ -12,7 +12,7 @@ authors:
   given-names: Mohammad Hadi
 title: "A content-based model for tag recommendation in software information sites"
 doi: 10.1093/comjnl/bxz144
-url: https://github.com/h4iku/tag-recom
+repository-code: https://github.com/h4iku/tag-recom
 preferred-citation:
   type: article
   authors:
