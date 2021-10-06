@@ -1,6 +1,6 @@
-scipy==1.6.1
-numpy==1.20.1
-nltk==3.5
+scipy==1.7.1
+numpy==1.21.2
+nltk==3.6.4
 jenkspy==0.2.0
-beautifulsoup4==4.9.3
-scikit-learn==0.24.1
+beautifulsoup4==4.10.0
+scikit-learn==1.0
