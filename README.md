@@ -1,14 +1,14 @@
 # How to Run
 
-1. Install [Python 3.8+](https://www.python.org/).
+1. Install [Python 3.10](https://www.python.org/).
 
 2. Clone this repository and create a venv:
 
     ```bash
     git clone https://github.com/h4iku/tag-recom.git
     cd tag-recom
-    python -m venv env
-    ./env/Scripts/activate
+    python -m venv .venv
+    .venv/Scripts/activate
     ```
 
 3. Update and install the required dependencies:
